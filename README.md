@@ -41,7 +41,7 @@ you can copie cars from players
 
 :RESOURCES: this dose so you can stop thier scripts that are runnig like anti cheet or any other script
 
-:CONFIG: draw watermark7streamproof/hide server ip/
+:CONFIG: draw watermark/streamproof/hide server ip/
 
 
 
