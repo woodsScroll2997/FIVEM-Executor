@@ -1,7 +1,10 @@
 When downloaded extract the file run the executor when your conneting to the fivem server 
     If you want to start the executor you will need to go home and then launch  
 
+:KEY: ENTER THE KEY 2023 IF IT ASK
 
+
+!!!!WARING!!!! YOU CAN GET BANNDE FOR USING THIS I RECOMMEND USING IT ON A SHITI SERVER
 
   :What you can do:  
    you can put in your own scripts if you go to manger 
